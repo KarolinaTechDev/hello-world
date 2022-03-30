@@ -1,2 +1,3 @@
-# Magig 8 Ball
-Magic 8 Ball
+# About Me
+
+My name is Karolina.
